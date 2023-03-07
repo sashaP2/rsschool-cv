@@ -2,7 +2,7 @@ body {
    background-image: url('./assets/img/6.jpg');
    background-size: cover;
     min-height: 100vh;
-    margin: 0; 
+    margin: 0;
     padding: 0;
     display: flex;
     flex-direction: column;
@@ -36,7 +36,7 @@ body {
   }
 
   html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
   }
 
   .nav-list {
@@ -52,7 +52,6 @@ body {
   a {
     color: #21379b;
     text-decoration: none;
-      
   }
 
    a:hover {
@@ -67,7 +66,7 @@ body {
   .main-container {
     flex-wrap: wrap;
   }
-  
+
   .section {
     background-color: hsla(128, 10%, 55%, 0.9);
     padding: 10px 35px;
@@ -78,7 +77,7 @@ body {
   @media (max-width: 768px) {
     .section {
     width: 100%;
-    
+
     }
   }
 
@@ -108,7 +107,7 @@ body {
     margin: 1%;
     padding: 1.5%;
     border-radius: 50%;
-   
+
   }
 
   .me{
@@ -152,6 +151,5 @@ body {
   .map{
     width: 640;
     height: 480;
-    
   }
 
